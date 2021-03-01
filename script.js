@@ -38,7 +38,7 @@ document.getElementById("submit").onclick = function myfn1() {
             }
 
 
-    var resultString = name.toString() + " kalyn maly - " + result.toString() + " " + document.getElementById("loveletter").value;
+    var resultString = name.toString() + " qalyn maly - " + result.toString() + " " + document.getElementById("loveletter").value;
     var div = document.getElementById('result');
     div.innerHTML = resultString
  
